@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '37230'
     url: http://www.gutenberg.org/2009/agents/37230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38119#Kysymysmerkkej---Kuinka-Muikkulan-Matin-kirkolla-k-vi
 gutenberg_issued: '2011-11-24'
 gutenberg_type: Text
 identifiers:
